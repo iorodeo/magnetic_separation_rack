@@ -1,0 +1,8 @@
+QTY      Description                        Vendor            PN                  
+------------------------------------------------------------------------
+4        4-40 hex standoffs 1¼” long        McMaster-Carr     93330A461
+8        4-40 machine screws ¼” long        McMaster-Carr     91249A105 
+6        Neodymium disc magnets             K&J Magnetics     D503
+
+
+
